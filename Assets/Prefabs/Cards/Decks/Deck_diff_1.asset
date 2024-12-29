@@ -9,13 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb82352904a7ce74d966a3c437d995d6, type: 3}
-  m_Name: Deck 1
+  m_Script: {fileID: 11500000, guid: 53519493d84ed5045b6e5dec9b0f79a9, type: 3}
+  m_Name: Deck_diff_1
   m_EditorClassIdentifier: 
-  DeckCards:
+  cards:
+  - {fileID: 11400000, guid: 9052b1a10493aff4d85a8851fb515446, type: 2}
+  - {fileID: 11400000, guid: 9052b1a10493aff4d85a8851fb515446, type: 2}
   - {fileID: 11400000, guid: 9052b1a10493aff4d85a8851fb515446, type: 2}
   - {fileID: 11400000, guid: 9052b1a10493aff4d85a8851fb515446, type: 2}
   - {fileID: 11400000, guid: bb55aa457e9177449bc06caa52f20dd3, type: 2}
-  - {fileID: 11400000, guid: 8511eba2c05736c4fa20de6e8c50c982, type: 2}
-  - {fileID: 11400000, guid: 4b34d25ed21889f45be4b961af9352ff, type: 2}
-  - {fileID: 11400000, guid: 4b34d25ed21889f45be4b961af9352ff, type: 2}
