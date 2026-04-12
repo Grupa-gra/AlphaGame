@@ -86684,6 +86684,22 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 36e129a355648e846a8c8998af180124, type: 2}
+    - target: {fileID: 3396552026051687724, guid: e7a685043d6a35e4db40d9cc6e0b60a2, type: 3}
+      propertyPath: m_Size.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396552026051687724, guid: e7a685043d6a35e4db40d9cc6e0b60a2, type: 3}
+      propertyPath: m_Size.y
+      value: 0.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396552026051687724, guid: e7a685043d6a35e4db40d9cc6e0b60a2, type: 3}
+      propertyPath: m_Size.z
+      value: 1.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396552026051687724, guid: e7a685043d6a35e4db40d9cc6e0b60a2, type: 3}
+      propertyPath: m_Center.y
+      value: 0.14
+      objectReference: {fileID: 0}
     - target: {fileID: 4344045134932250026, guid: e7a685043d6a35e4db40d9cc6e0b60a2, type: 3}
       propertyPath: Name
       value: Enemy
